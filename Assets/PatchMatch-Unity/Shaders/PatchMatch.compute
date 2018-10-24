@@ -1,4 +1,12 @@
-﻿#pragma kernel PatchMatchCS
+﻿//
+// This is a modified version of the CUDA implementation of PatchMatch algorithm
+// implemented by Ryan Yao.
+//
+// The original source code is available on GitHub.
+// https://github.com/rozentill/PatchMatch/blob/master/src/PatchMatch-GPU/PatchMatch-GPU/kernel.cu
+//
+
+#pragma kernel PatchMatchCS
 
 #define INT_MAX 2147483647
 #define UINT_MAX 0xFFFFFFFFu
