@@ -241,8 +241,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   computeShader: {fileID: 7200000, guid: 7a4b4eb777e357b45987fe641873287a, type: 3}
-  inputImageMaterialA: {fileID: 2100000, guid: cfc4ac117da70b8478ede8bfa63ebee1, type: 2}
-  inputImageMaterialB: {fileID: 2100000, guid: d28a3ecaeb77258409109ada6950ece3, type: 2}
+  inputImageMaterialA: {fileID: 2100000, guid: d28a3ecaeb77258409109ada6950ece3, type: 2}
+  inputImageMaterialB: {fileID: 2100000, guid: cfc4ac117da70b8478ede8bfa63ebee1, type: 2}
   outputFlowmapMaterial: {fileID: 2100000, guid: 3317de0dbfbf88645b3d96db3427632a,
     type: 2}
   outputReconstructedImageMaterial: {fileID: 2100000, guid: 37001945118d67943975a6fb0cf24180,
@@ -391,7 +391,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: d28a3ecaeb77258409109ada6950ece3, type: 2}
+  - {fileID: 2100000, guid: cfc4ac117da70b8478ede8bfa63ebee1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -920,7 +920,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: cfc4ac117da70b8478ede8bfa63ebee1, type: 2}
+  - {fileID: 2100000, guid: d28a3ecaeb77258409109ada6950ece3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
