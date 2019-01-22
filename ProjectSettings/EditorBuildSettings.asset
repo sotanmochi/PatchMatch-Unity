@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PatchMatch-Unity/PatchMatchComputeShader.unity
+    guid: 35373d3f14f37a64f86a8e753f60e594
