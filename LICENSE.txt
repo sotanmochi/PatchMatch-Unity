@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 sotan
+Copyright (c) 2018 Soichiro Sugimoto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
